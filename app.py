@@ -1,5 +1,6 @@
 # pip install streamlit pandas numpy scipy matplotlib plotly pyarrow pillow kaleido openai tiktoken
 # streamlit run app.py --server.port 8080
+pip install -r requirements.txt
 
 import streamlit as st
 import pandas as pd
